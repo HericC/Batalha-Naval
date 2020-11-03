@@ -20,7 +20,7 @@ Para que o "print" funcione corretamente, é aconselhavel utilizar a IDE "PyChar
 
 Running
 
-Execute o arquivo "init.py".
+Execute o arquivo "Batalha Naval.py".
 
 ### License
 
